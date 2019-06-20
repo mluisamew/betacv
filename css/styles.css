@@ -26,6 +26,9 @@ hr {
   width: 3.5%;
   margin: 100px auto;
 }
+p {
+  font-size: 1rem;
+}
 /************************TOP CONTAINTER************************/
 .top-container {
   /*line-height: 2; no units here*/
