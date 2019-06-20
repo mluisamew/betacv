@@ -85,7 +85,7 @@ h1 {
 .intro {
   width: 50%;
   margin: auto;
-  font-size: 1.5rem;
+  font-size: 24px;
 
 }
 .skill-row {
@@ -93,12 +93,11 @@ h1 {
   margin: 100px auto;
   line-height: 2;
   text-align:justify;
-  font-size: 1rem;
+  font-size: 16px;
 }
 .contact-text{
   margin: 30px auto 50px;
-  font-size: 1rem;
-
+  font-size: 16px;
 }
 /*******PICS*******/
 
@@ -128,6 +127,7 @@ h1 {
   color: #004d61;
   font-weight: bold;
   padding: 1%;
+  font-size: 16px;
 }
 
 .btn:hover {
@@ -150,7 +150,7 @@ a {
   font-weight: bold;
   margin: 10px 20px;
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 20px;
 }
 a:hover {
   color: black;
