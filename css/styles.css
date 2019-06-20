@@ -19,7 +19,6 @@ h3 {
   font-family: 'Heebo', sans-serif;
   color:#11999E;
   line-height: 2;
-  font-size: 1.5rem
 }
 hr {
   border: 6px grey;
@@ -33,7 +32,7 @@ hr {
   /*line-height: 2; no units here*/
   background-color: #87bdd8;
   position: relative;
-  padding-block-start: 113.6px;
+  padding-block-start: 7.1rem;
   font-family: 'Heebo', sans-serif;
 }
 
@@ -49,12 +48,10 @@ h1 {
 .h1I {
   font-family: 'Clicker Script', cursive;
   font-style: italic;
-  font-size: 4rem;
 }
 .pro {
   font-weight: bold;
   text-decoration: underline;
-  font-size: 2rem;
 }
 
 /*******PICS*******/
@@ -83,21 +80,17 @@ h1 {
 /*******TEXT*******/
 
 .intro {
-  width: 50%;
+  width: 25%;
   margin: auto;
-  font-size: 24px;
-
 }
 .skill-row {
   width: 50%;
   margin: 100px auto;
   line-height: 2;
   text-align:justify;
-  font-size: 16px;
 }
 .contact-text{
   margin: 30px auto 50px;
-  font-size: 16px;
 }
 /*******PICS*******/
 
@@ -127,7 +120,6 @@ h1 {
   color: #004d61;
   font-weight: bold;
   padding: 1%;
-  font-size: 16px;
 }
 
 .btn:hover {
@@ -150,7 +142,6 @@ a {
   font-weight: bold;
   margin: 10px 20px;
   text-decoration: none;
-  font-size: 20px;
 }
 a:hover {
   color: black;
@@ -161,5 +152,5 @@ a:hover {
 .copyright {
   color: #cfe0e8;
   margin: 30px 0 10px;
-  font-size: 10px;
+  font-size: 0.8rem;
 }
