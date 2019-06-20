@@ -1,0 +1,155 @@
+/************************GENERAL************************/
+
+body {
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-family: "Goudy Old Style",Garamond,"Big Caslon","Times New Roman",serif;
+}
+
+h2 {
+  color: #ff502f;
+  font-family: 'Heebo', sans-serif;
+  font-size: 2rem;
+  margin-block-start: 0rem;
+  margin-block-end: 60px;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Heebo', sans-serif;
+  color:#11999E;
+  line-height: 2;
+}
+hr {
+  border: 6px grey;
+  border-style: dotted none none;
+  width: 3.5%;
+  margin: 100px auto;
+}
+/************************TOP CONTAINTER************************/
+.top-container {
+  /*line-height: 2; no units here*/
+  background-color: #87bdd8;
+  position: relative;
+  padding-block-start: 7.1rem;
+  font-family: 'Heebo', sans-serif;
+}
+
+/*******TEXT*******/
+
+h1 {
+  color: #ff502f;
+  margin-block-start: 2rem;
+  margin-block-end: 0;
+  font-family: 'Parisienne', cursive;
+  font-size: 4rem; /*100% = 1 em = 16px in font-size; em suma los em de los padres, rem ignora los em de los padres*/
+}
+.h1I {
+  font-family: 'Clicker Script', cursive;
+  font-style: italic;
+}
+.pro {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/*******PICS*******/
+
+.cloud1 {
+  position: absolute;
+  top: 50px;
+  right: 13%;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 300px;
+  left: 13%;
+}
+.mountain {
+  margin-bottom:-0.45rem;
+}
+
+/************************MIDDLE CONTAINTER************************/
+.middle-container {
+  background-color: #004d61;
+  padding: 100px 0;
+}
+
+/*******TEXT*******/
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+  text-align:justify;
+}
+.contact-text{
+  margin: 30px auto 50px;
+}
+/*******PICS*******/
+
+.me {
+  border-radius: 100%;
+  margin: 50px;
+  width: 15%;
+}
+
+.codepic {
+  border-radius: 100%;
+  float: left;
+  margin-inline-end: 30px;
+  width: 25%;
+}
+.plane {
+  border-radius: 100%;
+  float: right;
+  margin-inline-start: 30px;
+  width: 25%;
+}
+
+/*******BUTTON*******/
+.btn {
+  background: lightblue;
+  border-radius: 5%;
+  color: #004d61;
+  font-weight: bold;
+  padding: 1%;
+}
+
+.btn:hover {
+  background-color: #87bdd8;
+  color: black;
+  cursor: pointer;
+}
+
+/************************BOTTOM CONTAINTER************************/
+.bottom-container {
+  background-color: #348498;
+  padding: 30px 0 5px 0;
+}
+
+/*******ANCHOR TAG*******/
+
+a {
+  color: #004d61;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+
+/*******TEXT*******/
+
+.copyright {
+  color: #cfe0e8;
+  margin: 30px 0 10px;
+  font-size: 0.8rem;
+}
