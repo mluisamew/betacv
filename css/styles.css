@@ -26,7 +26,7 @@ hr {
   width: 3.5%;
   margin: 100px auto;
 }
-p {
+* {
   font-size: 1rem;
 }
 /************************TOP CONTAINTER************************/
@@ -82,7 +82,7 @@ h1 {
 /*******TEXT*******/
 
 .intro {
-  width: 25%;
+  width: 50%;
   margin: auto;
 }
 .skill-row {
